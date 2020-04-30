@@ -1,5 +1,5 @@
 public class HelloWorld {
   public void sayHelloWorld() {
-    System.Debug('Hello World;
+    System.Debug('Hello World');
   }
 }
